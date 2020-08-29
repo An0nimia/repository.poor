@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="repository.poor" name="Repository Povera">
+	<extension point="xbmc.addon.repository">
+		<info>https://raw.githubusercontent.com/An0nimia/repository.poor/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/An0nimia/repository.poor/master/addons.xml.md5</checksum>
+		<datadir>https://raw.githubusercontent.com/An0nimia/repository.poor/master/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Repository per persone povere</summary>
+		<description>Il nome è la chiave</description>
+		<assets>
+			<icon>poor.png</icon>
+		</assets>
+		<platform>all</platform>
+		<license>CC BY-NC-SA 4.0</license>
+		<news>Si sboccia poveri !!!</news>
+		<source>https://github.com/An0nimia/repository.poor</source>
+		<email>An0nimia@protonmail.com</email>	</extension>
+</addon>
