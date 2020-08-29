@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-	<addon id="repository.poor" name="Repository Povera" version="1.0.0">
+	<addon id="repository.poor" name="Repository Povera" version="1.0.0" provider-name="An0nimia">
 		<extension point="xbmc.addon.repository">
 			<info>https://raw.githubusercontent.com/An0nimia/repository.poor/master/addons.xml</info>
 			<checksum>https://raw.githubusercontent.com/An0nimia/repository.poor/master/addons.xml.md5</checksum>
@@ -20,7 +20,7 @@
 		</extension>
 	</addon>
 
-	<addon id="plugin.poorflix.it" name="poorflix" version="1.0.1">
+	<addon id="plugin.poorflix.it" name="poorflix" version="1.0.0">
 		<requires>
 			<import addon="xbmc.python" version="2.25.0"/>
 			<import addon="script.module.beautifulsoup4" version="4.6.0"/>
@@ -30,9 +30,9 @@
 			<provides>video</provides>
 		</extension>
 		<extension point="xbmc.addon.metadata">
-			<summary lang="en_GB">Poorflix</summary>
-			<description lang="en_GB">Un po' come Netflix, ma per persone povere</description>
-			<disclaimer lang="en_GB">Il mio scopo? E' quello di poter permettere a chiunque, GRATIS, di poter guardare film/serie tv etc. Ogni contenuto non è di mia proprietà, ma "preso in prestito" da i vari siti di streaming italiani presenti sul web. CHILL =) W LA PIZZA</disclaimer>
+			<summary>Poorflix</summary>
+			<description>Un po' come Netflix, ma per persone povere</description>
+			<disclaimer>Il mio scopo? E' quello di poter permettere a chiunque, GRATIS, di poter guardare film/serie tv etc. Ogni contenuto non è di mia proprietà, ma "preso in prestito" da i vari siti di streaming italiani presenti sul web. CHILL =) W LA PIZZA</disclaimer>
 			<assets>
 				<icon>poorflix.png</icon>
 				<fanart>back.jpg</fanart>
