@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="repository.poor" name="Repository Povera">
+<addon id="repository.poor" name="Repository Povera" version="1.0.0">
 	<extension point="xbmc.addon.repository">
 		<info>https://raw.githubusercontent.com/An0nimia/repository.poor/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/An0nimia/repository.poor/master/addons.xml.md5</checksum>
